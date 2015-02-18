@@ -17,6 +17,9 @@ gem 'font-awesome-rails'
 gem 'angular-ui-bootstrap-rails'
 gem 'angularjs-rails'
 
+gem 'rake-n-bake'
+gem 'semver2'
+
 group :development, :test do
   gem 'capistrano-rails'
   gem 'capistrano-bundler'
